@@ -10,3 +10,5 @@ Vamos a realizar la automatización de una petición get, otra post, otra put y 
 Como framework de escritura de casos de prueba utilizaremos *cucumber*.
 
 Rest Assured es utilizado para las pruebas funcionales de servicios 'REST', y nos da la posibilidad de validar las respuestas HTTP recibidas del servidor. Actualmente, sus principales ventajas son: Se puede comprobar el estado del código, del mensaje e, incluso, se puede ver el cuerpo de la respuesta.
+
+![image](https://user-images.githubusercontent.com/37511909/169990464-1615da17-9022-4485-86a2-d7da98bbdd5e.png)
