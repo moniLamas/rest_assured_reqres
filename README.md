@@ -1,9 +1,11 @@
 # rest_assured_reqres
 Primera práctica completa test con Rest Assured
 
-En este ejercicio aprovechando las peticiones utilizadas con postman en la práctica anterior, vamos a automatizar varios casos de prueba, utilizando como framework *rest assured*. 
+En este ejercicio vamos a automatizar varios casos de prueba, utilizando como framework *rest assured*. 
 
-Vamos a necesitar otra vez acceder a [https://reqres.in/](https://reqres.in/) donde están alojadas las peticiones http.
+Necesitamos [https://reqres.in/](https://reqres.in/) donde están alojadas las peticiones http.
+
+Peticiones y validaciones en [Postman](https://drive.google.com/file/d/1hXXIS76OKo5_Gx1eqhB9jGuwRDPt3EKi/view?usp=sharing) colección para este proyecto.
 
 Vamos a realizar la automatización de una petición get, otra post, otra put y la de delete, con distintas validaciones. 
 
